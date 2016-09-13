@@ -1,0 +1,12 @@
+{
+  "name": "@orisomething/custom-elements-types",
+  "version": "0.0.1",
+  "author": "ori livni",
+  "private": false,
+  "description": "TypeScript definitions for Custom Elements",
+  "license": "MIT",
+  "main": "",
+  "scripts": {},
+  "dependencies": {},
+  "typings": "index.d.ts"
+}
