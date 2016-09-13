@@ -11,7 +11,7 @@ interface CustomElementRegistry {
 
 declare var customElements: CustomElementRegistry;
 
-interface ICustomElement extends HTMLElement {
+declare interface ICustomElement extends HTMLElement {
   /** Called when attached to document */
   connectedCallback?(): void;
 
