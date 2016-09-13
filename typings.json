@@ -1,0 +1,7 @@
+{
+  "name": "custom-elements",
+  "ambient": true,
+  "files": [
+    "index.d.ts"
+  ]
+}
